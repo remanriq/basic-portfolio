@@ -1,11 +1,49 @@
 
-h1{
-	width:300%;
-	height:100%;
-	background-color: #4aaaa5;
-	color: white;
+
+h2{
+	color:#4aaaa5;
+	font-family: times;
+	font-size: 150%;
+	text-align: left;
 }
+p{
+	text-align:justify;
+	text-indent:1%;
+
+}
+img{
+	float:left;
+	margin-right:0.5%;
+
+}
+
+#full{
+	background-color: #ffb3b3;
+	width:100%;
+	height:200%;
+	padding-top: 5%;
+	text-align:right;
+	border-bottom: solid;
+	border-color:#777777;
+
+	
+}
+
+#content{
+	background-color:#ffffff;
+	color:#777777;
+	width: 40%;
+	height:150%;
+	margin-right:30%;
+	margin-left: 15%;
+	padding-right: 5%;
+	padding-left: 5%;
+	padding-top:.5%;
+	padding-bottom: 5%;
+	margin-top:2.5%;
+	float:left;
+}
+
 body{
-	background-color:grey;
-	color: white;
+	background-image:url("../../assets/images/cork-wallet.png");
 }
